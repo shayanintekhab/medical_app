@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "912976744345",
+    "project_id": "air-visibility-app",
+    "storage_bucket": "air-visibility-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912976744345:android:69661c59b027e1eb784d08",
+        "android_client_info": {
+          "package_name": "com.example.air_visibility_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCthRD3Ya7v5uJ_Vks7PpGb9mON_pGxDPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912976744345:android:3ed5c2fd59f5d21c784d08",
+        "android_client_info": {
+          "package_name": "com.example.doctors_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCthRD3Ya7v5uJ_Vks7PpGb9mON_pGxDPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912976744345:android:4c5cbd65054d9c91784d08",
+        "android_client_info": {
+          "package_name": "com.example.patient_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCthRD3Ya7v5uJ_Vks7PpGb9mON_pGxDPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
